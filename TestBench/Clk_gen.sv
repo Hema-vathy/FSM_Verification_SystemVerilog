@@ -1,4 +1,4 @@
-///////////////*************CLOCK GENERATION BLOCK*************///////////////
+////////////////*************CLOCK GENERATION BLOCK*************////////////////
 class clk_gen;
   virtual signal intf;
   function new(virtual signal intf);
